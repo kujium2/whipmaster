@@ -1,0 +1,25 @@
+{
+    "name": "Megan Cole",
+    "age": 62,
+    "address": {
+        "street": "Stephens Island",
+        "city": "Juarezmouth",
+        "state": "Nebraska",
+        "zip": "83432"
+    },
+    "contact": {
+        "phone": "(478)296-4666",
+        "servicePhone": "800042010"
+    },
+    "birthday": "1963-28-11",
+    "ip": "163.107.99.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Serve official political decide where. Receive tree position thousand. House eight someone listen back.\nExample ten around here.",
+        "bio": "Writer about already book expert data writer. Allow option base five son above education.\nMiddle crime hot sometimes work better computer. Care close bag property ten short for necessary."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
