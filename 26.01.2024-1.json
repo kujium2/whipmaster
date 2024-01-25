@@ -1,0 +1,25 @@
+{
+    "name": "Laura Wilkinson",
+    "age": 2,
+    "address": {
+        "street": "Brooke Locks",
+        "city": "Martinville",
+        "state": "Washington",
+        "zip": "11843"
+    },
+    "contact": {
+        "phone": "001-478-699-8609x974",
+        "servicePhone": "800744000"
+    },
+    "birthday": "2023-12-05",
+    "ip": "46.172.98.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Authority job never most. Lay money nearly wear movie including. Worker speak central spend involve huge.",
+        "bio": "Admit class early. Popular believe company will evidence future sometimes clearly.\nOur measure investment huge turn itself true. Deal must off put. Rather memory fly book data."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
