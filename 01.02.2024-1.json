@@ -1,0 +1,25 @@
+{
+    "name": "Wanda Johnson",
+    "age": 57,
+    "address": {
+        "street": "Amber Lock",
+        "city": "Port Christine",
+        "state": "Maine",
+        "zip": "32881"
+    },
+    "contact": {
+        "phone": "+1-435-208-6615x38716",
+        "servicePhone": "800932937"
+    },
+    "birthday": "1968-12-09",
+    "ip": "180.11.236.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Participant close agent rather.\nThing couple deal example all improve. Story I join knowledge. Letter worker standard spring series.",
+        "bio": "Probably land their side. Each or lose. Choice continue grow continue."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
