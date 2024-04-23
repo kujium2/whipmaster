@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Gardner",
+    "age": 40,
+    "address": {
+        "street": "James Meadow",
+        "city": "East Lisa",
+        "state": "Georgia",
+        "zip": "06980"
+    },
+    "contact": {
+        "phone": "2879195448",
+        "servicePhone": "800071599"
+    },
+    "birthday": "1985-04-12",
+    "ip": "21.70.103.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Page force car own like same. Two you car involve world. Forget finally once at me.\nFriend similar north do. Anyone plan pick field begin likely accept how. Help couple case.",
+        "bio": "Must cause find brother TV explain by. Now most case sea agency present. Wife herself share year somebody. Value top deep now move attention PM."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
