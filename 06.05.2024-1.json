@@ -1,0 +1,25 @@
+{
+    "name": "Heather Turner",
+    "age": 103,
+    "address": {
+        "street": "Donald Dam",
+        "city": "Michaelborough",
+        "state": "Connecticut",
+        "zip": "10217"
+    },
+    "contact": {
+        "phone": "+1-718-891-4276x68514",
+        "servicePhone": "800104540"
+    },
+    "birthday": "1922-01-11",
+    "ip": "117.38.34.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Laugh buy material officer he family. Mr and mean room soon spend draw.",
+        "bio": "Himself child participant score scene. Arm discuss cup hold them type general. Challenge game individual choose if leader.\nScene for lawyer."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
