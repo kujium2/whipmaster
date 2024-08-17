@@ -1,0 +1,25 @@
+{
+    "name": "Brianna Pacheco",
+    "age": 22,
+    "address": {
+        "street": "Olsen Knoll",
+        "city": "Campbellbury",
+        "state": "North Dakota",
+        "zip": "50469"
+    },
+    "contact": {
+        "phone": "486-913-2575x497",
+        "servicePhone": "800941527"
+    },
+    "birthday": "2003-15-03",
+    "ip": "54.122.197.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Well inside security money recently. Deep too detail when. Couple off many which physical approach.\nInclude suddenly person manage. Town argue act that. Development occur miss culture have southern.",
+        "bio": "Hold base enter. Same serious learn.\nWeek current network financial stage her people. Also full economic sport point wish.\nWe economy wide ten night with go today. Difference very here and."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
