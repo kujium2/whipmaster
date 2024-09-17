@@ -1,0 +1,25 @@
+{
+    "name": "David Mcdaniel",
+    "age": 45,
+    "address": {
+        "street": "Thompson Village",
+        "city": "Lake Davidberg",
+        "state": "Utah",
+        "zip": "38758"
+    },
+    "contact": {
+        "phone": "+1-839-850-3150x234",
+        "servicePhone": "800668652"
+    },
+    "birthday": "1980-30-10",
+    "ip": "86.74.54.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Common away international eight join. Then happy candidate protect serve. Single ball look class report economic.",
+        "bio": "Just player west challenge region exist ago. Campaign example bad night. Believe represent interest need financial hospital tend how."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
