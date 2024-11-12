@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Moore",
+    "age": 9,
+    "address": {
+        "street": "Mckenzie Fort",
+        "city": "Port Lanceshire",
+        "state": "Illinois",
+        "zip": "90255"
+    },
+    "contact": {
+        "phone": "407-735-1238x5968",
+        "servicePhone": "800054329"
+    },
+    "birthday": "2016-27-11",
+    "ip": "55.136.144.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Guy name since minute give easy author.\nTravel cup customer view. Than western their act role.\nControl contain care job. Understand step let hope staff. Go act relate from central evidence always.",
+        "bio": "Amount group ahead late institution discuss because. There mention after among. Cover go article candidate stop woman.\nPower prevent ready character stand this. Stay bring Congress rock place than."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
