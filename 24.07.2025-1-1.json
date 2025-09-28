@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Terri Moore",
+    "age": 12,
+    "address": {
+        "street": "Margaret Tunnel",
+        "city": "West Daniel",
+        "state": "Montana",
+        "zip": "18990"
+    },
+    "contact": {
+        "phone": "+1-287-546-7578x4508",
+        "servicePhone": "800390645"
+    },
+    "birthday": "2013-14-11",
+    "ip": "20.3.250.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Opportunity out bed argue fill. Make affect report material pay list bad. He by camera mind.\nNewspaper child affect institution. Pattern father group professor.",
+        "bio": "Few together remain career speech let. Sea think deep."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
